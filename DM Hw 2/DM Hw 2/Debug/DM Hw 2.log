@@ -1,0 +1,9 @@
+﻿  DM Hw 2.cpp
+c:\users\kevin\source\repos\dm hw 2\dm hw 2\dm hw 2.cpp(52): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kevin\source\repos\dm hw 2\dm hw 2\dm hw 2.cpp(53): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kevin\source\repos\dm hw 2\dm hw 2\dm hw 2.cpp(54): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kevin\source\repos\dm hw 2\dm hw 2\dm hw 2.cpp(63): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kevin\source\repos\dm hw 2\dm hw 2\dm hw 2.cpp(64): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kevin\source\repos\dm hw 2\dm hw 2\dm hw 2.cpp(65): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kevin\source\repos\dm hw 2\dm hw 2\dm hw 2.cpp(32): warning C4101: 'input': unreferenced local variable
+  DM Hw 2.vcxproj -> C:\Users\Kevin\Source\Repos\DM Hw 2\Debug\DM Hw 2.exe
